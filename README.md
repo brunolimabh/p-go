@@ -1,1 +1,1 @@
-# projetosGo
+# Projetos em GO (Golang)

@@ -1,0 +1,5 @@
+MOD - aonde ficara todos os pacotes de dependencias da aplicação
+> go mod init github.com/brunolimabh/aula
+
+MYSQL 
+> go get -u github.com/go-sql-driver/mysql
